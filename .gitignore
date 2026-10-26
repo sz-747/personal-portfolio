@@ -1,4 +1,5 @@
 local/
+/examples/private-overlay.md
 *.local.*
 .env
 .env.*

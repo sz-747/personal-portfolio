@@ -7,13 +7,15 @@ description: Build or refine a personal portfolio website from real work, approv
 
 Category: Workflow.
 
+## Goal
+
 Create a portfolio that lets a new visitor understand the person, explore their work and find evidence without having to decode labels or open every detail. Preserve the owner's voice and approved visual direction while making the whole site feel consistent.
 
 ## Scope and inputs
 
 Use the existing repository and its instructions, owner-supplied content, authorized prior design feedback, selected reference sites and available media. Inspect the running site and actual source before choosing a framework or changing structure. Extend the existing implementation when it meets the need.
 
-This skill owns portfolio content structure, presentation, interactions and review. It does not grant access to private history, rights to photographs, permission to publish private projects, or authority to change domains, accounts or production deployments. Use the receiving workspace's existing tools and authority rules for those operations.
+**Boundaries:** This skill owns portfolio content structure, presentation, interactions and review. It does not grant access to private history, rights to photographs, permission to publish private projects, or authority to change domains, accounts or production deployments. Use the receiving workspace's existing tools and authority rules for those operations.
 
 The workspace may supply a private overlay through its agent instructions or catalogue. Read the named overlay explicitly. It can specify the repository, personal content, approved design references, preference evidence and deployment target. There is no automatic configuration loader. See the [overlay example](examples/private-overlay.example.md).
 
@@ -65,6 +67,6 @@ Run the existing build and checks relevant to what changed. Inspect the rendered
 
 Use the owner's corrections as evidence: identify the underlying pattern, check the other pages it affects, and update shared styles or components when appropriate. Recheck adjacent layouts. Save a durable preference only when the owner's authorization covers that destination. Do not turn every one-off visual choice into a global rule.
 
-Deliver source changes in the chosen repository; a short private `portfolio-decisions.md` in its documentation area or existing equivalent; and a preview or other review artifact that the owner can actually access. The note records the page map, chosen visual direction, significant corrections, source locations, checks and unresolved content. Keep personal evidence out of any public package.
+**Deliverables:** Source changes in the chosen repository; a short private `portfolio-decisions.md` in its documentation area or existing equivalent; and a preview or other review artifact that the owner can actually access. The note records the page map, chosen visual direction, significant corrections, source locations, checks and unresolved content. Keep personal evidence out of any public package.
 
-Done means the intended content remains present, primary journeys work, the site is readable across tested sizes, and the report identifies what was inspected. Distinguish a local build, a rendered browser review, a ready deployment and an accessible preview. If authentication blocks viewing, help with the supported sign-in or share route rather than reporting the login page as a rendered website. Name missing access, media, checks or content plainly and finish the independent work that remains possible.
+**Done when:** The intended content remains present, primary journeys work, the site is readable across tested sizes, and the report identifies what was inspected. Distinguish a local build, a rendered browser review, a ready deployment and an accessible preview. If authentication blocks viewing, help with the supported sign-in or share route rather than reporting the login page as a rendered website. Name missing access, media, checks or content plainly and finish the independent work that remains possible.
