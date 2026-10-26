@@ -24,6 +24,8 @@ This package has no runtime dependencies or custom executable. Review it using t
 
 This is an author-reviewed draft. A fresh agent's execution of the complete workflow has not yet been evaluated.
 
-Portfolio examples are fictional. No personal site, transcript, font, photo or video is bundled. Publishing, account changes and production deployment follow the receiving workspace's authority rules. Release licensing must be agreed before publication.
+Portfolio examples are fictional. No personal site, transcript, font, photo or video is bundled. Publishing, account changes and production deployment follow the receiving workspace's authority rules.
+
+Released under the [MIT licence](LICENSE).
 
 See [SOURCES.md](SOURCES.md) for provenance and [AGENTS.md](AGENTS.md) for maintenance guidance.

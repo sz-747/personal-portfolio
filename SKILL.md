@@ -1,5 +1,6 @@
 ---
 name: personal-portfolio
+license: MIT
 description: Build or refine a personal portfolio website from real work, approved references and design feedback. Use for portfolio structure, readable responsive layouts, project demos, writing, media galleries and a reviewable preview.
 ---
 
