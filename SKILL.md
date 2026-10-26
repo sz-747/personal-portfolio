@@ -52,6 +52,8 @@ Use motion to explain an interaction: a restrained expand cue, selected-card hig
 
 For projects, begin with a compact summary: name, one sentence and a clear expansion control. Expand into a large demo and concise explanation, with only useful links. On wide screens, alternating demo and text placement can make a sequence easy to scan. Stack on small screens. Never expose a private repository just because its demo appears publicly.
 
+For each public or open-source project, use one prominent, consistent "About the project" button. Link to the project page when one exists; until then, link directly to the public repository. Do not add separate source-code or installation-guide links to project cards. Keep those details on the project page or in the repository. Never link to a private repository.
+
 A homepage project link should open the corresponding project on Builds, expand it and leave unrelated projects collapsed. Stable anchors must work on an initial load, a hash change and browser navigation. Avoid repeating the same heading after expansion when the summary already supplies it.
 
 For an essay accompanied by video, consider a sticky video column beside the reading content when both remain usable. Stack the video above the essay when space is insufficient. Keep playback user initiated and avoid downloading the full video before it is wanted. If media or captions are missing, identify that gap; do not claim an unavailable demo works.
